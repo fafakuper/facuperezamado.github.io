@@ -12,6 +12,7 @@ nav{
     width: 100%;
 }
 
+
 .nombre{
     font-size: 25px;
     color: white;
@@ -290,4 +291,9 @@ h5{font-size: 20px;
 margin-left: 10px;
 color: #08fce8;}
 
+//.personales{display: none}
+//.contacto{display: none;}
+//.contacto: hover .text{display: block}
+//.datos_personales: hover .personales{display: block;}
 
+//.datos_personales: hover .text{display: block} 
